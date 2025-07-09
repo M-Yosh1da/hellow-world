@@ -1,3 +1,8 @@
+---
+layout: page
+title: "software Eng. lecture note
+permalaink: /docs/softwareEng2025
+---
 # ソフトウェア工学　まとめ
 ## １）ソフトウェア工学の概論
 ### ソフトウェアとは
